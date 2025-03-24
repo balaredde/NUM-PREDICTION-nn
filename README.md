@@ -31,8 +31,6 @@ The project uses the **MNIST dataset**, which consists of 28x28 grayscale images
 - **Matplotlib** - For visualizing data
 - **Scikit-learn** - For additional preprocessing
 
-## Author
-[Your Name]
 
 ## License
 This project is licensed under the MIT License.
